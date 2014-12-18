@@ -1,0 +1,1 @@
+I wanted to see if I could independently, without being a part of the network.  This is being partially accomplished by a combination of a tool called MassScan (masscan) and some custom code (represented here) to send "version" packets to believed Bitcoin nodes to entice a response (verack) and verify.
